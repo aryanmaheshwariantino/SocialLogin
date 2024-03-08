@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "522283567740",
+    "project_id": "sociallogin-1eb17",
+    "storage_bucket": "sociallogin-1eb17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522283567740:android:b2f667f570dae7e40197f9",
+        "android_client_info": {
+          "package_name": "com.aryan.sociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522283567740-2cpn9jvt8p8ava37m163dkt8pmqkgjra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aryan.sociallogin",
+            "certificate_hash": "f0d9515247ef5356d42fdde40d6ddea4b142b32e"
+          }
+        },
+        {
+          "client_id": "522283567740-74f3319q26cjlddv04997l2bq40c44jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlqH3V7i89noecZUkTVL8_qAh4JYEHufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522283567740-74f3319q26cjlddv04997l2bq40c44jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
